@@ -232,7 +232,7 @@
   // 切り替える画像のパスを配列で定義
   const images = [
     "assets/img/pic1.jpg",
-    "assets/img/my-profile-img.jpg",
+    "assets/img/pic3.jpg",
     "assets/img/pic2.jpg"
   ];
 
