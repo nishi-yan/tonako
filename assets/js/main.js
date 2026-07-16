@@ -231,9 +231,9 @@
    */
   // 切り替える画像のパスを配列で定義
   const images = [
-    "assets/img/hero-bg.jpg",
+    "assets/img/pic1.jpg",
     "assets/img/my-profile-img.jpg",
-    "assets/img/services.jpg"
+    "assets/img/pic2.jpg"
   ];
 
   let currentIndex = 0; // 現在の画像インデックス
