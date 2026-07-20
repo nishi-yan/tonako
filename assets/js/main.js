@@ -227,7 +227,7 @@
   document.addEventListener('scroll', navmenuScrollspy);
 
   /**
-   * hero image
+   * top image  エフェクト
    */
   // 切り替える画像のパスを配列で定義
   const images = [
